@@ -11,3 +11,6 @@
 - lab2.py
   - This program uses regular expressions to find certain patterns in the given 
   strings, and, in some cases, manipulate that data. 
+- lab3.py 
+  - This program uses regular expressions to decompose the data in an incorrectly 
+  formmated clist of contacts, and uses python code to reformat it.
